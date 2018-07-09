@@ -2,6 +2,10 @@
 
 > A curated list of awesome [ITCSS](http://itcss.io/) articles, and resources.
 
+## Diagram 
+
+> [![Awesome](https://i.imgur.com/NTYt2ab.png)](https://github.com/sindresorhus/awesome)]
+
 ## Articles
 
 - [Manage large-scale web projects with new CSS architecture ITCSS](http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731)
@@ -25,3 +29,7 @@
 - [GOV.UK Frontend Alpha](https://github.com/alphagov/govuk_frontend_alpha/tree/master/app/assets/scss)
 - [iotaCSS](https://www.iotacss.com/)
 - [BBC Grandstand](https://github.com/bbc/grandstand)
+
+
+
+
