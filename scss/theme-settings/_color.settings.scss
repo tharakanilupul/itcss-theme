@@ -1,0 +1,98 @@
+/**
+ * Copyright (c) 2018. CodeGen Ltd. - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Created by tharakan on 7/5/2018 3:10 PM
+ */
+
+
+// Color
+$color-white:                #ffffff !default;
+$color-black:                #000000 !default;
+$color-black-light:          #212121 !default;
+
+$color-gray-dark:            #323a45 !default;
+$color-gray:                 #5b616b !default;
+$color-gray-medium:          #757575 !default;
+$color-gray-light:           #aeb0b5 !default;
+$color-gray-lighter:         #d6d7d9 !default;
+$color-gray-lightest:        #f1f1f1 !default;
+
+$color-gray-warm-dark:       #494440 !default;
+$color-gray-warm-light:      #e4e2e0 !default;
+$color-gray-cool-light:      #dce4ef !default;
+
+// Functional colors
+$color-primary:              #000 !default;
+$color-primary-darker:       #000 !default;
+$color-primary-darkest:      #000 !default;
+
+$color-primary-alt:          #000 !default;
+$color-primary-alt-dark:     #000 !default;
+$color-primary-alt-darkest:  #000 !default;
+$color-primary-alt-light:    #000 !default;
+$color-primary-alt-lightest: #000 !default;
+
+$color-secondary:            #000 !default;
+$color-secondary-dark:       #000 !default;
+$color-secondary-darkest:    #000 !default;
+$color-secondary-light:      #000 !default;
+$color-secondary-lightest:   #000 !default;
+
+$color-base:                 #000 !default;
+$color-focus:                #000 !default;
+$color-visited:              #000 !default;
+
+$color-shadow:               rgba(#000, 0.3) !default;
+$color-transparent:          rgba(#000, 0) !default;
+
+
+/*
+
+$colors: (
+
+  brand: (
+    primary         : #F42D8C,
+    secondary       : #F42D8C,
+    pink            : #F42D8C,
+    pink            : #F42D8C,
+    pink            : #F42D8C,
+    pink            : #F42D8C,
+    pink            : #F42D8C,
+  ),
+
+  neutral: (
+    black           : #000,
+    white           : #fff,
+    darkest         : #222,
+    darker          : #444,
+    dark            : #666,
+    light           : #999,
+    lighter         : #ccc,
+    lightest        : #f4f4f4
+  ),
+
+  contextual: (
+    success         : #4caf50,
+    success-light   : #c8e6c9,
+    warning         : #ffeb3b,
+    warning-light   : #fff59d,
+    error           : #f44336,
+    error-light     : #ffcdd2,
+    info            : #4b68b3,
+    info-light      : #e5eef9
+  ),
+
+  social: (
+    twitter         : #55acee,
+    facebook        : #32639f,
+    google          : #d34836,
+    pinterest       : #cb2028,
+    instagram       : #517fa4,
+    vimeo           : #1ab7ea,
+    linkedin        : #4875b4,
+    youtube         : #bb0000,
+    tumblr          : #36465D
+  ),
+);
+*/

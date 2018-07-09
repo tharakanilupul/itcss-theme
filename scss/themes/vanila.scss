@@ -1,0 +1,22 @@
+/**
+ * Copyright (c) 2018. CodeGen Ltd. - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Created by tharakan on 7/5/2018 5:32 PM
+ */
+
+// Themes
+//
+// Themes can affect any of the primary types. They can
+// override base styles like default link colours. They can change
+// module elements such as colours and borders. They can affect
+// layout with different arrangements. They can also alter how states look.
+//
+// @source http://smacss.com/book/type-theme
+
+$theme: vanila;
+
+
+.test {
+  margin: 0;
+}
